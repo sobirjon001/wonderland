@@ -1,0 +1,24 @@
+@font-face {
+    font-family: Lydian;
+    src: url(Lydian-Regular.ttf);
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: Lydian;
+    src: url(Lydian-Italic.ttf);
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: Lydian;
+    src: url(Lydian-Bold.ttf);
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: Lydian;
+    src: url(Lydian-BoldItalic.ttf);
+    font-weight: 700;
+    font-style: italic;
+}
